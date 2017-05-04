@@ -51,8 +51,9 @@ h4{
 .card {
   background: #fff;
   border-radius: 2px;
-  overflow: auto;
-  width: 50%;
+  /*overflow: auto;*/
+  /*width: 70%;*/
+  padding: 20px 60px 20px 60px;
   position: absolute;
   top: 50%;
   left: 50%;
